@@ -1,5 +1,4 @@
 import ProgressBar from "@ramonak/react-progress-bar"
-import { Circle } from "react-circle"
 
 function Status(props: any) {
   // 100*status/maxstatus

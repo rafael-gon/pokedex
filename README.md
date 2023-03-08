@@ -1,6 +1,6 @@
 # Pokedex
 
-This is a Pokedex App built using ReactJS and TypeScript. It fetches data from the [PokeAPI](https://pokeapi.co/) and displays information about different Pokemon. Users can search for a specific Pokemon by name or ID, as well as filter the list by type.
+This is a Pokedex App built using ReactJS and TypeScript. It fetches data from the [PokeAPI](https://pokeapi.co/) and displays information about different Pokemon.
 
 # Getting Started
 

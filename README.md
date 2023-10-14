@@ -1,6 +1,6 @@
 # Pokedex
 
-This is a Pokedex App built using ReactJS and TypeScript. It fetches data from the [PokeAPI](https://pokeapi.co/) and displays information about different Pokemon.
+This is a Pokedex Site built using NextJS and TypeScript. It fetches data from the [PokeAPI](https://pokeapi.co/) and displays information about different Pokemon.
 
 # Getting Started
 
@@ -14,7 +14,7 @@ git clone https://github.com/rafael-gon/pokedex.git
 
 2. Navigate to the root directory of the project.
 ```sh
-cd reactDex
+cd pokedex
 ```
 3. Run npm install to install all the 
 necessary dependencies.
@@ -26,7 +26,7 @@ or
 npm install
 ```
 
-4. Run expo start to start the Expo server.
+4. Run this to start the local server.
 
 ```sh
 yarn dev
@@ -36,9 +36,6 @@ or
 ```sh
 npm run dev
 ```
-
-5. Use the Expo Go app on your mobile device to scan the QR code and launch the app.
-
 
 ## screenshots
 
